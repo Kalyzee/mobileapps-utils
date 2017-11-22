@@ -20,7 +20,7 @@
     "url": "https://github.com/devoluti0n/mobileapps-utils/issues"
   },
   "homepage": "https://github.com/devoluti0n/mobileapps-utils#readme",
-  "dependencies": {
+  "peerDependencies": {
     "react-native": "^0.50.0"
   }
 }
